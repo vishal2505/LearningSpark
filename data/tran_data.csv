@@ -1,0 +1,11 @@
+Date,Transaction,Name,Transaction_ID
+29-10-2020,,"ABC",tid1
+30-10-2020,120,"ABC",tid2
+,121,"ABC",tid3
+02-11-2020,122,"ABC",tid4
+03-11-2020,,"ABC",tid5
+,,"PQR",tid6
+04-11-2020,,"ABC",tid7
+,345,,tid8
+05-11-2020,129,"ABC",tid9
+06-11-2020,131,"ABC",tid10

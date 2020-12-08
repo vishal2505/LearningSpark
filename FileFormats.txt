@@ -1,4 +1,4 @@
-Reading and Writing into several file formatsin HDFS-
+Reading and Writing into several file formats in HDFS using Apache Spark
 
 File Format       Action        Procedure and points to remember 
 =============================================================================
